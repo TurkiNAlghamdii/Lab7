@@ -6,13 +6,21 @@ body{
     padding-bottom: 15px;
     text-align: center;
     padding-top:15px ;
+    display: flex;
+    flex-direction: column;
+}
+#buttons{
+    margin: 10px;
 }
 #results{
     margin-top: 20px;
 }
 
-input{
+#input{
     padding: 7px;
+    width: 300px;
+    align-self: center;
+
 }
 button{
     padding: 7px;
