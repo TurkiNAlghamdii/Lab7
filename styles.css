@@ -10,7 +10,7 @@ body{
     flex-direction: column;
 }
 #buttons{
-    margin: 10px;
+    margin-top: 20px;
 }
 #results{
     margin-top: 20px;
